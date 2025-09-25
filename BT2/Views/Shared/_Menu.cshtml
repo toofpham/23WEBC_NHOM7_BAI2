@@ -1,0 +1,19 @@
+﻿@model string
+
+<div id="templatemo_menu" class="ddsmoothmenu">
+    <ul>
+        <li><a asp-controller="home" asp-action="index" class="@(Model=="Home" ? "selected" : "")">Home</a></li>
+        <li><a asp-controller="home" asp-action="about" class="@(Model=="About" ? "selected" : "")">About</a></li>
+        <li><a asp-controller="products" asp-action="index" class="@(Model=="Products" ? "selected" : "")">Products</a></li>
+        <li><a asp-controller="checkout" asp-action="index" class="@(Model=="Checkout" ? "selected" : "")">Checkout</a></li>
+        <li><a asp-controller="home" asp-action="contact" class="@(Model=="Contact" ? "selected" : "")">Contact</a></li>
+        <li><a asp-controller="home" asp-action="faqs" class="@(Model=="FAQs" ? "selected" : "")">FAQs</a></li>
+    </ul>
+    <div id="templatemo_search">
+        <form action="#" method="get">
+            <input type="text" value="Site Search" name="keyword" id="keyword" class="txt_field" />
+            <input type="submit" value="" id="searchbutton" class="sub_btn" />
+        </form>
+    </div>
+    <br style="clear: left" />
+</div>
