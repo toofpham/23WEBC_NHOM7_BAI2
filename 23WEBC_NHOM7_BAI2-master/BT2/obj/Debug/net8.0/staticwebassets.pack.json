@@ -1,0 +1,1609 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BT2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BT2.amgzxeb2ym.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\LICENSE",
+      "PackagePath": "staticwebassets"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\README.md",
+      "PackagePath": "staticwebassets\\README.md"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower.json",
+      "PackagePath": "staticwebassets\\bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\bootstrap-social\\.bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\bootstrap-social\\.bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\bootstrap-social\\bootstrap-social.css",
+      "PackagePath": "staticwebassets\\bower_components\\bootstrap-social\\bootstrap-social.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\bootstrap-social\\bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\bootstrap-social\\bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\bootstrap\\.bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\bootstrap\\.bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\bootstrap\\bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\bootstrap\\bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\bower_components\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\bower_components\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bower_components\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bower_components\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\bower_components\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\bower_components\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\bower_components\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\bower_components\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\bower_components\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\bower_components\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\bootstrap\\grunt\\configBridge.json",
+      "PackagePath": "staticwebassets\\bower_components\\bootstrap\\grunt\\configBridge.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\bootstrap\\less\\.csscomb.json",
+      "PackagePath": "staticwebassets\\bower_components\\bootstrap\\less\\.csscomb.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\bootstrap\\package.json",
+      "PackagePath": "staticwebassets\\bower_components\\bootstrap\\package.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\.bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\.bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\api\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\api\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\features\\alphabetSearch\\dataTables.alphabetSearch.css",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\features\\alphabetSearch\\dataTables.alphabetSearch.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\features\\lengthLinks\\dataTables.lengthLinks.css",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\features\\lengthLinks\\dataTables.lengthLinks.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\features\\searchHighlight\\dataTables.searchHighlight.css",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\features\\searchHighlight\\dataTables.searchHighlight.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\filtering\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\filtering\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\i18n\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\i18n\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\bootstrap\\1\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\bootstrap\\1\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\bootstrap\\2\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\bootstrap\\2\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\bootstrap\\2\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\bootstrap\\2\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\bootstrap\\3\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\bootstrap\\3\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\bootstrap\\3\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\bootstrap\\3\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\bootstrap\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\bootstrap\\images\\sort_asc.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\bootstrap\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\bootstrap\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\bootstrap\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\bootstrap\\images\\sort_both.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\bootstrap\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\bootstrap\\images\\sort_desc.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\bootstrap\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\bootstrap\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\font-awesome\\bootstrap.html",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\font-awesome\\bootstrap.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\font-awesome\\dataTables.fontAwesome.css",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\font-awesome\\dataTables.fontAwesome.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\font-awesome\\datatables.html",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\font-awesome\\datatables.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\font-awesome\\foundation.html",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\font-awesome\\foundation.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\foundation\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\foundation\\dataTables.foundation.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\foundation\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\foundation\\images\\sort_asc.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\foundation\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\foundation\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\foundation\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\foundation\\images\\sort_both.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\foundation\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\foundation\\images\\sort_desc.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\foundation\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\foundation\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\foundation\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\foundation\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\jqueryui\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\jqueryui\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\integration\\jqueryui\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\integration\\jqueryui\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\pagination\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\pagination\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\sorting\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\sorting\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-plugins\\type-detection\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-plugins\\type-detection\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\.bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\.bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\License.txt",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\License.txt"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\docs\\api\\responsive.index().xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\docs\\api\\responsive.index().xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\docs\\api\\responsive.rebuild().xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\docs\\api\\responsive.rebuild().xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\docs\\api\\responsive.recalc().xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\docs\\api\\responsive.recalc().xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\docs\\option\\responsive.breakpoints.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\docs\\option\\responsive.breakpoints.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\docs\\option\\responsive.details.renderer.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\docs\\option\\responsive.details.renderer.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\docs\\option\\responsive.details.target.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\docs\\option\\responsive.details.target.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\docs\\option\\responsive.details.type.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\docs\\option\\responsive.details.type.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\docs\\option\\responsive.details.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\docs\\option\\responsive.details.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\docs\\option\\responsive.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\docs\\option\\responsive.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\child-rows\\column-control.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\child-rows\\column-control.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\child-rows\\custom-renderer.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\child-rows\\custom-renderer.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\child-rows\\disable-child-rows.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\child-rows\\disable-child-rows.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\child-rows\\index.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\child-rows\\index.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\child-rows\\right-column.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\child-rows\\right-column.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\child-rows\\whole-row-control.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\child-rows\\whole-row-control.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\display-control\\auto.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\display-control\\auto.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\display-control\\classes.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\display-control\\classes.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\display-control\\complexHeader.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\display-control\\complexHeader.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\display-control\\fixedHeader.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\display-control\\fixedHeader.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\display-control\\index.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\display-control\\index.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\display-control\\init-classes.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\display-control\\init-classes.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\index.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\index.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\initialisation\\ajax.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\initialisation\\ajax.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\initialisation\\className.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\initialisation\\className.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\initialisation\\default.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\initialisation\\default.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\initialisation\\index.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\initialisation\\index.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\initialisation\\new.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\initialisation\\new.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\initialisation\\option.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\initialisation\\option.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\styling\\bootstrap.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\styling\\bootstrap.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\styling\\compact.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\styling\\compact.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\styling\\foundation.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\styling\\foundation.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\styling\\index.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\styling\\index.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\styling\\jqueryui.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\styling\\jqueryui.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables-responsive\\examples\\styling\\scrolling.xml",
+      "PackagePath": "staticwebassets\\bower_components\\datatables-responsive\\examples\\styling\\scrolling.xml"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables\\.bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\datatables\\.bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables\\bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\datatables\\bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables\\license.txt",
+      "PackagePath": "staticwebassets\\bower_components\\datatables\\license.txt"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables\\media\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\bower_components\\datatables\\media\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables\\media\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bower_components\\datatables\\media\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables\\media\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\bower_components\\datatables\\media\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables\\media\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\bower_components\\datatables\\media\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables\\media\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\bower_components\\datatables\\media\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables\\media\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\bower_components\\datatables\\media\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables\\media\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\bower_components\\datatables\\media\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables\\media\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\bower_components\\datatables\\media\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables\\media\\css\\jquery.dataTables_themeroller.css",
+      "PackagePath": "staticwebassets\\bower_components\\datatables\\media\\css\\jquery.dataTables_themeroller.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables\\media\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\bower_components\\datatables\\media\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables\\media\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\bower_components\\datatables\\media\\images\\sort_asc.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables\\media\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\bower_components\\datatables\\media\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables\\media\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\bower_components\\datatables\\media\\images\\sort_both.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables\\media\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\bower_components\\datatables\\media\\images\\sort_desc.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\datatables\\media\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\bower_components\\datatables\\media\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot.tooltip\\.bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\flot.tooltip\\.bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot.tooltip\\bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\flot.tooltip\\bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\.bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\.bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\component.json",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\component.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\ajax\\data-eu-gdp-growth-1.json",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\ajax\\data-eu-gdp-growth-1.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\ajax\\data-eu-gdp-growth-2.json",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\ajax\\data-eu-gdp-growth-2.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\ajax\\data-eu-gdp-growth-3.json",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\ajax\\data-eu-gdp-growth-3.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\ajax\\data-eu-gdp-growth-4.json",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\ajax\\data-eu-gdp-growth-4.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\ajax\\data-eu-gdp-growth-5.json",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\ajax\\data-eu-gdp-growth-5.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\ajax\\data-eu-gdp-growth.json",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\ajax\\data-eu-gdp-growth.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\ajax\\data-japan-gdp-growth.json",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\ajax\\data-japan-gdp-growth.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\ajax\\data-usa-gdp-growth.json",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\ajax\\data-usa-gdp-growth.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\ajax\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\ajax\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\annotating\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\annotating\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\axes-interacting\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\axes-interacting\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\axes-multiple\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\axes-multiple\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\axes-time-zones\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\axes-time-zones\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\axes-time\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\axes-time\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\background.png",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\background.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\basic-options\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\basic-options\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\basic-usage\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\basic-usage\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\canvas\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\canvas\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\categories\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\categories\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\examples.css",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\examples.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\image\\hs-2004-27-a-large-web.jpg",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\image\\hs-2004-27-a-large-web.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\image\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\image\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\interacting\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\interacting\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\navigate\\arrow-down.gif",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\navigate\\arrow-down.gif"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\navigate\\arrow-left.gif",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\navigate\\arrow-left.gif"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\navigate\\arrow-right.gif",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\navigate\\arrow-right.gif"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\navigate\\arrow-up.gif",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\navigate\\arrow-up.gif"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\navigate\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\navigate\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\percentiles\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\percentiles\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\realtime\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\realtime\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\resize\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\resize\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\selection\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\selection\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\series-errorbars\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\series-errorbars\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\series-pie\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\series-pie\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\series-toggle\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\series-toggle\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\series-types\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\series-types\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\shared\\jquery-ui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\shared\\jquery-ui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\stacking\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\stacking\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\symbols\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\symbols\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\threshold\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\threshold\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\tracking\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\tracking\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\visitors\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\visitors\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\examples\\zooming\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\examples\\zooming\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\flot.jquery.json",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\flot.jquery.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\flot\\package.json",
+      "PackagePath": "staticwebassets\\bower_components\\flot\\package.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\font-awesome\\.bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\font-awesome\\.bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\font-awesome\\bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\font-awesome\\bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\bower_components\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\bower_components\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\bower_components\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\bower_components\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\bower_components\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\bower_components\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\holderjs\\.bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\holderjs\\.bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\holderjs\\bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\holderjs\\bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\holderjs\\composer.json",
+      "PackagePath": "staticwebassets\\bower_components\\holderjs\\composer.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\holderjs\\package.json",
+      "PackagePath": "staticwebassets\\bower_components\\holderjs\\package.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\holderjs\\test\\image.jpg",
+      "PackagePath": "staticwebassets\\bower_components\\holderjs\\test\\image.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\holderjs\\test\\index.html",
+      "PackagePath": "staticwebassets\\bower_components\\holderjs\\test\\index.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\jquery\\.bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\jquery\\.bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\jquery\\MIT-LICENSE.txt",
+      "PackagePath": "staticwebassets\\bower_components\\jquery\\MIT-LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\jquery\\bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\jquery\\bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\metisMenu\\.bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\metisMenu\\.bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\metisMenu\\bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\metisMenu\\bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\metisMenu\\dist\\metisMenu.css",
+      "PackagePath": "staticwebassets\\bower_components\\metisMenu\\dist\\metisMenu.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\metisMenu\\dist\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\bower_components\\metisMenu\\dist\\metisMenu.min.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\metisMenu\\package.json",
+      "PackagePath": "staticwebassets\\bower_components\\metisMenu\\package.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\metisMenu\\src\\metisMenu.css",
+      "PackagePath": "staticwebassets\\bower_components\\metisMenu\\src\\metisMenu.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\mocha\\.bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\mocha\\.bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\mocha\\bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\mocha\\bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\mocha\\mocha.css",
+      "PackagePath": "staticwebassets\\bower_components\\mocha\\mocha.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\.bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\.bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\bower.travis.json",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\bower.travis.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\_template.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\_template.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\area-as-line.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\area-as-line.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\area.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\area.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\bar-colors.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\bar-colors.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\bar-no-axes.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\bar-no-axes.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\bar.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\bar.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\days.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\days.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\decimal-custom-hover.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\decimal-custom-hover.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\diagonal-xlabels-bar.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\diagonal-xlabels-bar.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\diagonal-xlabels.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\diagonal-xlabels.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\donut-colors.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\donut-colors.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\donut-formatter.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\donut-formatter.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\donut.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\donut.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\dst.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\dst.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\events.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\events.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\goals.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\goals.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\lib\\example.css",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\lib\\example.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\months-no-smooth.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\months-no-smooth.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\negative.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\negative.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\no-grid.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\no-grid.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\non-continuous.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\non-continuous.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\non-date.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\non-date.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\quarters.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\quarters.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\resize.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\resize.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\stacked_bars.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\stacked_bars.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\timestamps.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\timestamps.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\updating.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\updating.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\weeks.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\weeks.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\examples\\years.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\examples\\years.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\morris.css",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\morris.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\package.json",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\package.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\spec\\specs.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\spec\\specs.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\spec\\viz\\exemplary\\area0.png",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\spec\\viz\\exemplary\\area0.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\spec\\viz\\exemplary\\bar0.png",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\spec\\viz\\exemplary\\bar0.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\spec\\viz\\exemplary\\line0.png",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\spec\\viz\\exemplary\\line0.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\spec\\viz\\exemplary\\stacked_bar0.png",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\spec\\viz\\exemplary\\stacked_bar0.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\morrisjs\\spec\\viz\\test.html",
+      "PackagePath": "staticwebassets\\bower_components\\morrisjs\\spec\\viz\\test.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\raphael\\.bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\raphael\\.bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\raphael\\bower.json",
+      "PackagePath": "staticwebassets\\bower_components\\raphael\\bower.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\bower_components\\raphael\\license.txt",
+      "PackagePath": "staticwebassets\\bower_components\\raphael\\license.txt"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\composer.json",
+      "PackagePath": "staticwebassets\\composer.json"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\css\\ddsmoothmenu.css",
+      "PackagePath": "staticwebassets\\css\\ddsmoothmenu.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\css\\nivo-slider.css",
+      "PackagePath": "staticwebassets\\css\\nivo-slider.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\css\\orman.css",
+      "PackagePath": "staticwebassets\\css\\orman.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\css\\slimbox2.css",
+      "PackagePath": "staticwebassets\\css\\slimbox2.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\dist\\css\\sb-admin-2.css",
+      "PackagePath": "staticwebassets\\dist\\css\\sb-admin-2.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\dist\\css\\timeline.css",
+      "PackagePath": "staticwebassets\\dist\\css\\timeline.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\dist\\js\\sb-admin-2.js",
+      "PackagePath": "staticwebassets\\dist\\js\\sb-admin-2.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\1311260370_paypal-straight.png",
+      "PackagePath": "staticwebassets\\images\\1311260370_paypal-straight.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\1311260374_mastercard-straight.png",
+      "PackagePath": "staticwebassets\\images\\1311260374_mastercard-straight.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\1311260374_visa-straight.png",
+      "PackagePath": "staticwebassets\\images\\1311260374_visa-straight.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\addtocart.png",
+      "PackagePath": "staticwebassets\\images\\addtocart.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\arrows.png",
+      "PackagePath": "staticwebassets\\images\\arrows.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\bullets.png",
+      "PackagePath": "staticwebassets\\images\\bullets.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\closelabel.gif",
+      "PackagePath": "staticwebassets\\images\\closelabel.gif"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\flagship.jpg",
+      "PackagePath": "staticwebassets\\images\\flagship.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\free_shipping.jpg",
+      "PackagePath": "staticwebassets\\images\\free_shipping.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\menu_hover.png",
+      "PackagePath": "staticwebassets\\images\\menu_hover.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\nextlabel.gif",
+      "PackagePath": "staticwebassets\\images\\nextlabel.gif"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\portfolio\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\01.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\portfolio\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\02.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\portfolio\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\03.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\portfolio\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\04.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\portfolio\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\05.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\prevlabel.gif",
+      "PackagePath": "staticwebassets\\images\\prevlabel.gif"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\product\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\01.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\product\\01_l.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\01_l.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\product\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\02.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\product\\02_l.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\02_l.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\product\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\03.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\product\\03_l.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\03_l.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\product\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\04.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\product\\04_l.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\04_l.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\product\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\05.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\product\\05_l.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\05_l.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\product\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\06.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\product\\06_l.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\06_l.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\product\\07.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\07.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\product\\07_l.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\07_l.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\product\\08.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\08.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\product\\08_l.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\08_l.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\product\\image_01.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\image_01.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\product\\image_01_l.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\image_01_l.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\remove.png",
+      "PackagePath": "staticwebassets\\images\\remove.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\ribbon.png",
+      "PackagePath": "staticwebassets\\images\\ribbon.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\search_bg.png",
+      "PackagePath": "staticwebassets\\images\\search_bg.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\templatemo_btn.png",
+      "PackagePath": "staticwebassets\\images\\templatemo_btn.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\templatemo_footer.png",
+      "PackagePath": "staticwebassets\\images\\templatemo_footer.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\templatemo_h2.png",
+      "PackagePath": "staticwebassets\\images\\templatemo_h2.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\templatemo_header.jpg",
+      "PackagePath": "staticwebassets\\images\\templatemo_header.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\templatemo_header.png",
+      "PackagePath": "staticwebassets\\images\\templatemo_header.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\templatemo_header_subpage.jpg",
+      "PackagePath": "staticwebassets\\images\\templatemo_header_subpage.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\templatemo_headerrepeat.jpg",
+      "PackagePath": "staticwebassets\\images\\templatemo_headerrepeat.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\templatemo_headerrepeat_subpage.jpg",
+      "PackagePath": "staticwebassets\\images\\templatemo_headerrepeat_subpage.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\templatemo_image_01.jpg",
+      "PackagePath": "staticwebassets\\images\\templatemo_image_01.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\templatemo_list.png",
+      "PackagePath": "staticwebassets\\images\\templatemo_list.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\templatemo_logo.png",
+      "PackagePath": "staticwebassets\\images\\templatemo_logo.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\templatemo_main.png",
+      "PackagePath": "staticwebassets\\images\\templatemo_main.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\templatemo_menu.png",
+      "PackagePath": "staticwebassets\\images\\templatemo_menu.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\templatemo_sbbg.png",
+      "PackagePath": "staticwebassets\\images\\templatemo_sbbg.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\templatemo_sbbgb.png",
+      "PackagePath": "staticwebassets\\images\\templatemo_sbbgb.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\templatemo_sbheader.png",
+      "PackagePath": "staticwebassets\\images\\templatemo_sbheader.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\images\\templatemo_sliderbg.png",
+      "PackagePath": "staticwebassets\\images\\templatemo_sliderbg.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\js\\ddsmoothmenu.js",
+      "PackagePath": "staticwebassets\\js\\ddsmoothmenu.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\js\\flot-data.js",
+      "PackagePath": "staticwebassets\\js\\flot-data.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\js\\jquery-1.6.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.6.1.min.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\js\\jquery.nivo.slider.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nivo.slider.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\js\\jquery.nivo.slider.pack.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nivo.slider.pack.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\js\\morris-data.js",
+      "PackagePath": "staticwebassets\\js\\morris-data.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\js\\slimbox2.js",
+      "PackagePath": "staticwebassets\\js\\slimbox2.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\less\\sb-admin-2.less",
+      "PackagePath": "staticwebassets\\less\\sb-admin-2.less"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\less\\variables.less",
+      "PackagePath": "staticwebassets\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\README",
+      "PackagePath": "staticwebassets\\nivo-slider"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\demo\\demo.html",
+      "PackagePath": "staticwebassets\\nivo-slider\\demo\\demo.html"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\demo\\images\\dev7logo.png",
+      "PackagePath": "staticwebassets\\nivo-slider\\demo\\images\\dev7logo.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\demo\\images\\nemo.jpg",
+      "PackagePath": "staticwebassets\\nivo-slider\\demo\\images\\nemo.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\demo\\images\\toystory.jpg",
+      "PackagePath": "staticwebassets\\nivo-slider\\demo\\images\\toystory.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\demo\\images\\up.jpg",
+      "PackagePath": "staticwebassets\\nivo-slider\\demo\\images\\up.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\demo\\images\\walle.jpg",
+      "PackagePath": "staticwebassets\\nivo-slider\\demo\\images\\walle.jpg"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\demo\\scripts\\jquery-1.6.1.min.js",
+      "PackagePath": "staticwebassets\\nivo-slider\\demo\\scripts\\jquery-1.6.1.min.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\demo\\style.css",
+      "PackagePath": "staticwebassets\\nivo-slider\\demo\\style.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\jquery.nivo.slider.js",
+      "PackagePath": "staticwebassets\\nivo-slider\\jquery.nivo.slider.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\jquery.nivo.slider.pack.js",
+      "PackagePath": "staticwebassets\\nivo-slider\\jquery.nivo.slider.pack.js"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\license.txt",
+      "PackagePath": "staticwebassets\\nivo-slider\\license.txt"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\nivo-slider.css",
+      "PackagePath": "staticwebassets\\nivo-slider\\nivo-slider.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\themes\\default\\arrows.png",
+      "PackagePath": "staticwebassets\\nivo-slider\\themes\\default\\arrows.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\themes\\default\\bullets.png",
+      "PackagePath": "staticwebassets\\nivo-slider\\themes\\default\\bullets.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\themes\\default\\default.css",
+      "PackagePath": "staticwebassets\\nivo-slider\\themes\\default\\default.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\themes\\default\\loading.gif",
+      "PackagePath": "staticwebassets\\nivo-slider\\themes\\default\\loading.gif"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\themes\\orman\\arrows.png",
+      "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\arrows.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\themes\\orman\\bullets.png",
+      "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\bullets.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\themes\\orman\\loading.gif",
+      "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\loading.gif"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\themes\\orman\\orman.css",
+      "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\orman.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\themes\\orman\\readme.txt",
+      "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\readme.txt"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\themes\\orman\\ribbon.png",
+      "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\ribbon.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\themes\\orman\\slider.png",
+      "PackagePath": "staticwebassets\\nivo-slider\\themes\\orman\\slider.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\themes\\pascal\\bullets.png",
+      "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\bullets.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\themes\\pascal\\controlnav.png",
+      "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\controlnav.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\themes\\pascal\\featured.png",
+      "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\featured.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\themes\\pascal\\loading.gif",
+      "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\loading.gif"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\themes\\pascal\\pascal.css",
+      "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\pascal.css"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\themes\\pascal\\readme.txt",
+      "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\readme.txt"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\themes\\pascal\\ribbon.png",
+      "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\ribbon.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\nivo-slider\\themes\\pascal\\slider.png",
+      "PackagePath": "staticwebassets\\nivo-slider\\themes\\pascal\\slider.png"
+    },
+    {
+      "Id": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\wwwroot\\templatemo_style.css",
+      "PackagePath": "staticwebassets\\templatemo_style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BT2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BT2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BT2.props",
+      "PackagePath": "build\\BT2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BT2.props",
+      "PackagePath": "buildMultiTargeting\\BT2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BT2.props",
+      "PackagePath": "buildTransitive\\BT2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

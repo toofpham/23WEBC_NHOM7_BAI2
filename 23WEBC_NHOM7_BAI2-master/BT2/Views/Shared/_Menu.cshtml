@@ -1,0 +1,19 @@
+﻿
+
+<div id="templatemo_menu" class="ddsmoothmenu">
+    <ul>
+        <li><a asp-controller="home" asp-action="index" class="@(ViewBag.PageName=="Home"?"selected":"")">Home</a></li>
+        <li><a asp-controller="home" asp-action="about" class="@(ViewBag.PageName=="About"?"selected":"")">About</a></li>
+        <li><a asp-controller="products" asp-action="index" class="@(ViewBag.PageName=="Products"?"selected":"")">Products</a></li>
+        <li><a asp-controller="checkout" asp-action="index" class="@(ViewBag.PageName=="Checkout"?"selected":"")">Checkout</a></li>
+        <li><a asp-controller="home" asp-action="contact" class="@(ViewBag.PageName=="Contact"?"selected":"")">Contact</a></li>
+        <li><a asp-controller="home" asp-action="faqs" class="@(ViewBag.PageName=="Faqs"?"selected":"")">FAQs</a></li>
+    </ul>
+    <div id="templatemo_search">
+        <form action="#" method="get">
+            <input type="text" value="Site Search" name="keyword" id="keyword" class="txt_field" />
+            <input type="submit" value="" id="searchbutton" class="sub_btn" />
+        </form>
+    </div>
+    <br style="clear: left" />
+</div>

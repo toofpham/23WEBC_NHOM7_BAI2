@@ -1,0 +1,185 @@
+{
+  "Products": [
+    {
+      "MaSP": "1",
+      "TenSP": "Hoa Hồng",
+      "DonGia": 200000,
+      "DonGiaKhuyenMai": 180000,
+      "HinhAnh": "/images/product/02.jpg",
+      "MoTa": "Hoa hồng tượng trưng cho tình yêu và sự lãng mạn",
+      "LoaiSP": "Hoa tươi"
+    },
+    {
+      "MaSP": "2",
+      "TenSP": "Hoa Cúc",
+      "DonGia": 120000,
+      "DonGiaKhuyenMai": 100000,
+      "HinhAnh": "/images/product/04.jpg",
+      "MoTa": "Hoa cúc mang ý nghĩa trường thọ và sự thanh khiết",
+      "LoaiSP": "Hoa tươi"
+    },
+    {
+      "MaSP": "3",
+      "TenSP": "Hoa Sen",
+      "DonGia": 150000,
+      "DonGiaKhuyenMai": 130000,
+      "HinhAnh": "/images/product/04.jpg",
+      "MoTa": "Hoa sen tượng trưng cho sự thanh cao và thuần khiết",
+      "LoaiSP": "Hoa tươi"
+    },
+    {
+      "MaSP": "4",
+      "TenSP": "Hoa Hướng Dương",
+      "DonGia": 180000,
+      "DonGiaKhuyenMai": 160000,
+      "HinhAnh": "/images/product/04.jpg",
+      "MoTa": "Hoa hướng dương thể hiện niềm tin và hy vọng",
+      "LoaiSP": "Hoa tươi"
+    },
+    {
+      "MaSP": "5",
+      "TenSP": "Hoa Lan",
+      "DonGia": 250000,
+      "DonGiaKhuyenMai": 220000,
+      "HinhAnh": "/images/product/04.jpg",
+      "MoTa": "Hoa lan mang vẻ đẹp sang trọng và quý phái",
+      "LoaiSP": "Hoa tươi"
+    },
+    {
+      "MaSP": "6",
+      "TenSP": "Hoa Tulip",
+      "DonGia": 300000,
+      "DonGiaKhuyenMai": 270000,
+      "HinhAnh": "/images/product/04.jpg",
+      "MoTa": "Hoa tulip biểu tượng của sự kiêu sa và tình yêu hoàn hảo",
+      "LoaiSP": "Hoa tươi"
+    },
+    {
+      "MaSP": "7",
+      "TenSP": "Hoa Ly",
+      "DonGia": 220000,
+      "DonGiaKhuyenMai": 200000,
+      "HinhAnh": "/images/product/04.jpg",
+      "MoTa": "Hoa ly tượng trưng cho sự tinh khiết và cao quý",
+      "LoaiSP": "Hoa tươi"
+    },
+    {
+      "MaSP": "8",
+      "TenSP": "Hoa Cẩm Chướng",
+      "DonGia": 160000,
+      "DonGiaKhuyenMai": 140000,
+      "HinhAnh": "/images/product/04.jpg",
+      "MoTa": "Hoa cẩm chướng gắn liền với tình mẫu tử và sự kính trọng",
+      "LoaiSP": "Hoa tươi"
+    },
+    {
+      "MaSP": "9",
+      "TenSP": "Hoa Đào",
+      "DonGia": 400000,
+      "DonGiaKhuyenMai": 350000,
+      "HinhAnh": "/images/product/04.jpg",
+      "MoTa": "Hoa đào nở rộ mỗi dịp Tết, mang đến may mắn và thịnh vượng",
+      "LoaiSP": "Hoa tươi"
+    },
+    {
+      "MaSP": "10",
+      "TenSP": "Hoa Mai",
+      "DonGia": 500000,
+      "DonGiaKhuyenMai": 450000,
+      "HinhAnh": "/images/product/04.jpg",
+      "MoTa": "Hoa mai vàng tượng trưng cho sự sung túc và phát tài",
+      "LoaiSP": "Hoa tươi"
+    },
+    {
+      "MaSP": "11",
+      "TenSP": "Hoa Oải Hương",
+      "DonGia": 350000,
+      "DonGiaKhuyenMai": 320000,
+      "HinhAnh": "/images/product/04.jpg",
+      "MoTa": "Hoa oải hương gắn liền với sự bình yên và thư giãn",
+      "LoaiSP": "Hoa tươi"
+    },
+    {
+      "MaSP": "12",
+      "TenSP": "Hoa Mẫu Đơn",
+      "DonGia": 600000,
+      "DonGiaKhuyenMai": 550000,
+      "HinhAnh": "/images/product/04.jpg",
+      "MoTa": "Hoa mẫu đơn được coi là nữ hoàng của các loài hoa, biểu tượng của phú quý",
+      "LoaiSP": "Hoa tươi"
+    },
+    {
+      "MaSP": "13",
+      "TenSP": "Hoa Giấy",
+      "DonGia": 100000,
+      "DonGiaKhuyenMai": 80000,
+      "HinhAnh": "/images/product/04.jpg",
+      "MoTa": "Hoa giấy rực rỡ, dễ trồng, tượng trưng cho sự giản dị",
+      "LoaiSP": "Hoa tươi"
+    },
+    {
+      "MaSP": "14",
+      "TenSP": "Hoa Phong Lan Rừng",
+      "DonGia": 700000,
+      "DonGiaKhuyenMai": 650000,
+      "HinhAnh": "/images/product/04.jpg",
+      "MoTa": "Loài lan quý hiếm với hương thơm tự nhiên",
+      "LoaiSP": "Hoa tươi"
+    },
+    {
+      "MaSP": "15",
+      "TenSP": "Hoa Thược Dược",
+      "DonGia": 180000,
+      "DonGiaKhuyenMai": 150000,
+      "HinhAnh": "/images/product/04.jpg",
+      "MoTa": "Hoa thược dược tượng trưng cho sự duyên dáng và lòng biết ơn",
+      "LoaiSP": "Hoa tươi"
+    },
+    {
+      "MaSP": "16",
+      "TenSP": "Hoa Đồng Tiền",
+      "DonGia": 200000,
+      "DonGiaKhuyenMai": 170000,
+      "HinhAnh": "/images/product/04.jpg",
+      "MoTa": "Hoa đồng tiền mang đến sự may mắn và tài lộc",
+      "LoaiSP": "Hoa tươi"
+    },
+    {
+      "MaSP": "17",
+      "TenSP": "Hoa Sen Đá",
+      "DonGia": 90000,
+      "DonGiaKhuyenMai": 70000,
+      "HinhAnh": "/images/product/04.jpg",
+      "MoTa": "Sen đá nhỏ gọn, dễ chăm sóc, tượng trưng cho tình yêu vĩnh cửu",
+      "LoaiSP": "Hoa tươi"
+    },
+    {
+      "MaSP": "18",
+      "TenSP": "Hoa Dạ Yến Thảo",
+      "DonGia": 150000,
+      "DonGiaKhuyenMai": 120000,
+      "HinhAnh": "/images/product/04.jpg",
+      "MoTa": "Hoa dạ yến thảo mềm mại, thường trồng trong chậu treo",
+      "LoaiSP": "Hoa tươi"
+    },
+    {
+      "MaSP": "19",
+      "TenSP": "Hoa Cẩm Tú Cầu",
+      "DonGia": 300000,
+      "DonGiaKhuyenMai": 270000,
+      "HinhAnh": "/images/product/04.jpg",
+      "MoTa": "Hoa cẩm tú cầu với nhiều màu sắc, tượng trưng cho lòng biết ơn",
+      "LoaiSP": "Hoa tươi"
+    },
+    {
+      "MaSP": "20",
+      "TenSP": "Hoa Thiên Điểu",
+      "DonGia": 400000,
+      "DonGiaKhuyenMai": 350000,
+      "HinhAnh": "/images/product/04.jpg",
+      "MoTa": "Hoa thiên điểu độc đáo, giống hình chim thiên đường",
+      "LoaiSP": "Hoa tươi"
+    }
+    
+  ]
+}

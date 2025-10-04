@@ -1,0 +1,123 @@
+E:\hoctap\ASP\pr2_test\BT2\BT2\bin\Debug\net7.0\appsettings.Development.json
+E:\hoctap\ASP\pr2_test\BT2\BT2\bin\Debug\net7.0\appsettings.json
+E:\hoctap\ASP\pr2_test\BT2\BT2\bin\Debug\net7.0\BT2.staticwebassets.runtime.json
+E:\hoctap\ASP\pr2_test\BT2\BT2\bin\Debug\net7.0\BT2.exe
+E:\hoctap\ASP\pr2_test\BT2\BT2\bin\Debug\net7.0\BT2.deps.json
+E:\hoctap\ASP\pr2_test\BT2\BT2\bin\Debug\net7.0\BT2.runtimeconfig.json
+E:\hoctap\ASP\pr2_test\BT2\BT2\bin\Debug\net7.0\BT2.dll
+E:\hoctap\ASP\pr2_test\BT2\BT2\bin\Debug\net7.0\BT2.pdb
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\BT2.GeneratedMSBuildEditorConfig.editorconfig
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\BT2.AssemblyInfoInputs.cache
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\BT2.AssemblyInfo.cs
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\BT2.csproj.CoreCompileInputs.cache
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\BT2.MvcApplicationPartsAssemblyInfo.cache
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\BT2.RazorAssemblyInfo.cache
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\BT2.RazorAssemblyInfo.cs
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\staticwebassets\msbuild.BT2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\staticwebassets\msbuild.build.BT2.props
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BT2.props
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BT2.props
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\staticwebassets.pack.json
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\staticwebassets.build.json
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\staticwebassets.development.json
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\scopedcss\bundle\BT2.styles.css
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\scopedcss\projectbundle\BT2.bundle.scp.css
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\BT2.dll
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\refint\BT2.dll
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\BT2.pdb
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\BT2.genruntimeconfig.cache
+E:\hoctap\ASP\pr2_test\BT2\BT2\obj\Debug\net7.0\ref\BT2.dll
+E:\hoctap\ASP\pr1_test\BT2\BT2\bin\Debug\net7.0\appsettings.Development.json
+E:\hoctap\ASP\pr1_test\BT2\BT2\bin\Debug\net7.0\appsettings.json
+E:\hoctap\ASP\pr1_test\BT2\BT2\bin\Debug\net7.0\BT2.staticwebassets.runtime.json
+E:\hoctap\ASP\pr1_test\BT2\BT2\bin\Debug\net7.0\BT2.exe
+E:\hoctap\ASP\pr1_test\BT2\BT2\bin\Debug\net7.0\BT2.deps.json
+E:\hoctap\ASP\pr1_test\BT2\BT2\bin\Debug\net7.0\BT2.runtimeconfig.json
+E:\hoctap\ASP\pr1_test\BT2\BT2\bin\Debug\net7.0\BT2.dll
+E:\hoctap\ASP\pr1_test\BT2\BT2\bin\Debug\net7.0\BT2.pdb
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\BT2.GeneratedMSBuildEditorConfig.editorconfig
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\BT2.AssemblyInfoInputs.cache
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\BT2.AssemblyInfo.cs
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\BT2.csproj.CoreCompileInputs.cache
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\BT2.MvcApplicationPartsAssemblyInfo.cache
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\BT2.RazorAssemblyInfo.cache
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\BT2.RazorAssemblyInfo.cs
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\staticwebassets\msbuild.BT2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\staticwebassets\msbuild.build.BT2.props
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BT2.props
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BT2.props
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\staticwebassets.pack.json
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\staticwebassets.build.json
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\staticwebassets.development.json
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\scopedcss\bundle\BT2.styles.css
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\scopedcss\projectbundle\BT2.bundle.scp.css
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\BT2.dll
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\refint\BT2.dll
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\BT2.pdb
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\BT2.genruntimeconfig.cache
+E:\hoctap\ASP\pr1_test\BT2\BT2\obj\Debug\net7.0\ref\BT2.dll
+E:\hoctap\ASP\pr1_test\BT2\BT2\bin\Debug\net7.0\Data\db.json
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\bin\Debug\net7.0\appsettings.json
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\bin\Debug\net7.0\Data\db.json
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\bin\Debug\net7.0\BT2.staticwebassets.runtime.json
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\bin\Debug\net7.0\BT2.exe
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\bin\Debug\net7.0\BT2.deps.json
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\bin\Debug\net7.0\BT2.runtimeconfig.json
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\bin\Debug\net7.0\BT2.dll
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\bin\Debug\net7.0\BT2.pdb
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\staticwebassets\msbuild.BT2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\staticwebassets\msbuild.build.BT2.props
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BT2.props
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BT2.props
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\scopedcss\bundle\BT2.styles.css
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\scopedcss\projectbundle\BT2.bundle.scp.css
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.dll
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\refint\BT2.dll
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.pdb
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1)\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\ref\BT2.dll
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\bin\Debug\net7.0\appsettings.json
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\bin\Debug\net7.0\Data\db.json
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\bin\Debug\net7.0\BT2.staticwebassets.runtime.json
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\bin\Debug\net7.0\BT2.exe
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\bin\Debug\net7.0\BT2.deps.json
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\bin\Debug\net7.0\BT2.runtimeconfig.json
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\bin\Debug\net7.0\BT2.dll
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\bin\Debug\net7.0\BT2.pdb
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\staticwebassets\msbuild.BT2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\staticwebassets\msbuild.build.BT2.props
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BT2.props
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BT2.props
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\scopedcss\bundle\BT2.styles.css
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\scopedcss\projectbundle\BT2.bundle.scp.css
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.dll
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\refint\BT2.dll
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.pdb
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\BT2.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\23WEBC_NHOM7_BAI2-master (1) - Copy\23WEBC_NHOM7_BAI2-master\BT2\obj\Debug\net7.0\ref\BT2.dll

@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom2\\bt2\\bt2\\bt2\\middlewares\\productloadingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|solutionrelative:bt2\\middlewares\\productloadingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom2\\bt2\\bt2\\bt2\\data\\db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|solutionrelative:bt2\\data\\db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom2\\bt2\\bt2\\bt2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|solutionrelative:bt2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom2\\bt2\\bt2\\bt2\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|solutionrelative:bt2\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom2\\bt2\\bt2\\bt2\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|solutionrelative:bt2\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom2\\bt2\\bt2\\bt2\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|solutionrelative:bt2\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom2\\bt2\\bt2\\bt2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|solutionrelative:bt2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom2\\bt2\\bt2\\bt2\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|solutionrelative:bt2\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom2\\bt2\\bt2\\bt2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|solutionrelative:bt2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom2\\bt2\\bt2\\bt2\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|solutionrelative:bt2\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom2\\bt2\\bt2\\bt2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|solutionrelative:bt2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom2\\bt2\\bt2\\bt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|solutionrelative:bt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom2\\bt2\\bt2\\bt2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|solutionrelative:bt2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|d:\\ckc\\nam3hk1\\aspnet core\\23webc_nhom7\\baitapnhom2\\bt2\\bt2\\bt2\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EA60210-FEE0-4613-91AB-B6C2728984BC}|BT2\\BT2.csproj|solutionrelative:bt2\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "BT2\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "BT2\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T15:24:06.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItemModel.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Models\\CartItemModel.cs",
+              "RelativeDocumentMoniker": "BT2\\Models\\CartItemModel.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Models\\CartItemModel.cs",
+              "RelativeToolTip": "BT2\\Models\\CartItemModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T15:14:55.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "BT2\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Controllers\\CartController.cs",
+              "RelativeToolTip": "BT2\\Controllers\\CartController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T14:26:31.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BT2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BT2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T14:13:52.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BT2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BT2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwD0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T14:03:25.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "BT2\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "BT2\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T14:05:31.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "BT2\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "BT2\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwDoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T13:56:06.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductLoadingMiddleware.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Middlewares\\ProductLoadingMiddleware.cs",
+              "RelativeDocumentMoniker": "BT2\\Middlewares\\ProductLoadingMiddleware.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Middlewares\\ProductLoadingMiddleware.cs",
+              "RelativeToolTip": "BT2\\Middlewares\\ProductLoadingMiddleware.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:53:10.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BT2\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BT2\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:52:26.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "BT2\\Services\\ProductService.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Services\\ProductService.cs",
+              "RelativeToolTip": "BT2\\Services\\ProductService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA6wCcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:51:18.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BT2\\Models\\Product.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Models\\Product.cs",
+              "RelativeToolTip": "BT2\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:51:01.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "db.json",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Data\\db.json",
+              "RelativeDocumentMoniker": "BT2\\Data\\db.json",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Data\\db.json",
+              "RelativeToolTip": "BT2\\Data\\db.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T13:47:03.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Extensions\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "BT2\\Extensions\\SessionExtensions.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Extensions\\SessionExtensions.cs",
+              "RelativeToolTip": "BT2\\Extensions\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T15:16:34.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Program.cs",
+              "RelativeDocumentMoniker": "BT2\\Program.cs",
+              "ToolTip": "D:\\ckc\\nam3hk1\\ASPNET core\\23WEBC_NHOM7\\baitapnhom2\\BT2\\BT2\\BT2\\Program.cs",
+              "RelativeToolTip": "BT2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T14:51:38.237Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1024,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

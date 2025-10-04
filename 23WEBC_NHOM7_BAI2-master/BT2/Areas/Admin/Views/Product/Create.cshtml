@@ -1,0 +1,32 @@
+﻿@model BT2.Models.Product
+
+<h2>Thêm sản phẩm</h2>
+
+<form asp-action="Create" method="post">
+    <div>
+        <label>Tên sản phẩm</label>
+        <input asp-for="TenSP" class="form-control" />
+    </div>
+    <div>
+        <label>Đơn giá</label>
+        <input asp-for="DonGia" class="form-control" />
+    </div>
+    <div>
+        <label>Đơn giá khuyến mãi</label>
+        <input asp-for="DonGiaKhuyenMai" class="form-control" />
+    </div>
+    <div>
+        <label>Hình ảnh (URL)</label>
+        <input asp-for="HinhAnh" class="form-control" />
+    </div>
+    <div>
+        <label>Mô tả</label>
+        <textarea asp-for="MoTa" class="form-control"></textarea>
+    </div>
+    <div>
+        <label>Loại sản phẩm</label>
+        <input asp-for="LoaiSP" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Lưu</button>
+</form>
