@@ -1,0 +1,38 @@
+﻿@{
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+@model List<BT2.Models.Product>
+
+@section Title{Danh sách sản phẩm}
+
+
+
+<h2>Quản lý sản phẩm</h2>
+@* <a asp-controller="Product" asp-action="Create" asp-area="Admin">Thêm sản phẩm</a> *@
+<a href="/admin/product/create">Thêm sản phẩm</a>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Mã</th>
+            <th>Tên</th>
+            <th>Đơn giá</th>
+            <th>Khuyến mãi</th>
+            <th>Loại</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.MaSP</td>
+                <td>@p.TenSP</td>
+                <td>@p.DonGia</td>
+                <td>@p.DonGiaKhuyenMai</td>
+                <td>@p.LoaiSP</td>
+            </tr>
+        }
+    </tbody>
+</table>

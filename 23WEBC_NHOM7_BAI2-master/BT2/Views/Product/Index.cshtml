@@ -1,0 +1,74 @@
+﻿@model List<BT2.Models.Product>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.PageName = "Products";
+}
+
+
+
+
+
+<div id="templatemo_main_wrapper">
+<div id="templatemo_main">
+    <div id="sidebar" class="left">
+        <div class="sidebar_box"><span class="bottom"></span>
+            <h3>Categories</h3>   
+            <div class="content"> 
+                <ul class="sidebar_list">
+                    <li><a href="#">Nulla odio ipsum</a></li>
+                    <li><a href="#">Suspendisse posuere</a></li>
+                    <li><a href="#">Aliquam euismod</a></li>
+                    <li><a href="#">Curabitur ac mauris</a></li>
+                    <li><a href="#">Mauris nulla tortor</a></li>
+                    <li><a href="#">Nullam ultrices</a></li>
+                    <li><a href="#">Vivamus scelerisque</a></li>
+                    <li><a href="#">Suspendisse posuere</a></li>
+                    <li><a href="#">Quisque vel justo</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="sidebar_box"><span class="bottom"></span>
+            <h3>Weekly Special</h3>   
+            <div class="content special"> 
+                <img src="images/templatemo_image_01.jpg" alt="Flowers" />
+                <a href="#">Citrus Burst Bouquet</a>
+                <p>
+                    Price:
+                    <span class="price normal_price">$160</span>&nbsp;&nbsp;
+                    <span class="price special_price">$100</span>
+                </p>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="content" class="right">
+        <h2>Products</h2>
+        <p>Cras aliquam, mi nec imperdiet volutpat, ligula est consequat odio, eu auctor urna augue eu quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis bibendum nec nunc ac hendrerit. Morbi lacinia placerat diam sit amet fringilla. Integer accumsan suscipit suscipit. Mauris non nunc sit amet turpis pharetra mattis. Validate <a href="http://validator.w3.org/check?uri=referer" rel="nofollow"><strong>XHTML</strong></a> &amp; <a href="http://jigsaw.w3.org/css-validator/check/referer" rel="nofollow"><strong>CSS</strong></a>.</p>
+        
+        @foreach (var p in Model){
+        
+            <div class="product_box">
+                <a href="/products/@p.MaSP">
+                        <img src="@p.HinhAnh" alt="@p.TenSP" />
+                </a>
+                <h3>@p.TenSP</h3>
+                <p class="product_price">@p.DonGia</p>
+                <p class="add_to_cart">
+                    <a href="/products/@p.MaSP">Detail</a>
+                        <a href="/cart/add/@p.MaSP">Add to Cart</a>
+                </p>
+            </div>
+        }
+        <div class="blank_box">
+            <a href="#" class="button left">Previous</a> 
+            <a href="#" class="button right">Next Page</a>
+        </div>
+        <div class="cleaner h20"></div>
+        <div class="blank_box">
+            <a href="#"><img src="images/free_shipping.jpg" alt="Free Shipping" /></a>
+        </div>    
+    </div>
+    <div class="cleaner"></div>
+</div> <!-- END of main -->
+</div> <!-- END of main wrapper -->
